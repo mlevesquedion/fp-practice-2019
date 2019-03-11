@@ -1,6 +1,6 @@
 # CS Games FP Practice
 
-Getting ready for this year's FP competition by solving challenges (5, 6 and 7) from last year with @lauraCote.
+Getting ready for this year's FP competition by solving challenges (5, 6 and 7) from last year with [@lauraCote](https://github.com/lauraCote).
 
 ## Original repo
 
